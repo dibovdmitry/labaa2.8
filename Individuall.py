@@ -6,7 +6,6 @@ import sys
 
 
 def get_airplane():
-    
     path = input("Название пункта назначения рейса ")
     number = input("Номер рейса ")
     model = float(input("Тип самолёта "))
